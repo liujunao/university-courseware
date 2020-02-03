@@ -1,0 +1,9 @@
+教材
+1 Ian sommerville.Software Engineering. 有中文译: 程成 (译) 机械工业出版社
+
+参考教材
+
+1 Software Engineering  A Practitioners Approach (Sixth Edition)  , Roger S Pressman，2005年
+  （中文版）郑人杰等译，机械工业出版社，2007年
+2 张海藩著.软件工程导论.清华大学出版社
+3 郑人杰，殷人昆，陶永雷著.实用软件工程.清华大学出版社

@@ -1,0 +1,6 @@
+教材：
+Ian sommerville. software enigneering(或中文版)
+
+参考：
+１．　software engineering: a practitioners' approach
+
